@@ -1,4 +1,4 @@
-Snakefire source package for Ubuntu
+Snakefire for Ubuntu
 ===================================
 
 [Snakefire](http://snakefire.org) is a desktop client for [Campfire](https://campfirenow.com/) that can run on Linux, and any other OS that has QT support.
