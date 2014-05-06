@@ -4,5 +4,5 @@ pyfire-*/build/
 pyfire-*/debian/pyfire/
 pyfire-*/pyfire.egg-info/
 snakefire-*/build/
-snakefire-*/debian/pyfire/
+snakefire-*/debian/snakefire/
 snakefire-*/snakefire.egg-info/
