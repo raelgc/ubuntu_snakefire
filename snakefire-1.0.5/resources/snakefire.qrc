@@ -1,0 +1,17 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/images">
+    <file>snakefire-big.png</file>
+</qresource>
+<qresource prefix="/icons">
+	<file>snakefire.png</file>
+	<file>snakefire-gray.png</file>
+	<file>alerts.png</file>
+	<file>connect.png</file>
+	<file>disconnect.png</file>
+	<file>join.png</file>
+</qresource>
+<qresource prefix="/themes">
+	<file>bootstrap.css</file>
+</qresource>
+</RCC>

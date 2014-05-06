@@ -1,0 +1,7 @@
+[Global]
+Comment=Snakefire
+
+[Event/FilterAlert]
+Name=Filter Alert
+Comment=A filter match was found in a message
+Action=Popup|Taskbar

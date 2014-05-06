@@ -1,0 +1,13 @@
+Source: pyfire
+Maintainer: Rael Gugelmin Cunha <rael.gc@gmail.com>
+Section: net
+Priority: optional
+Build-Depends: python-setuptools (>= 0.6b3), debhelper (>= 7), python-support (>= 0.8.4)
+Standards-Version: 3.8.4
+
+Package: pyfire
+Architecture: all
+Depends: ${python:Depends}, python3-twisted-experimental (>= 10.1.0) | python-twisted (>= 10.1.0), python3-openssl | python-openssl
+Description: A Campfire API implementation in Python
+ Pyfire provides an easy to use, full featured implementation of the Campfire API
+ in Python.
