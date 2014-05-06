@@ -5,7 +5,7 @@ Snakefire for Ubuntu
 
 It's based on [pyfire](https://github.com/mariano/pyfire), a Campfire API written in python.
 
-This repo was built to create a running version for Ubuntu 14.04 (Trusty Tahr), and is based on [Mariano Pyfire](https://github.com/mariano/pyfire) + [James Broadhead fork](https://github.com/jamesbroadhead/snakefire) of Snakefire.
+This repo was built to create a running version for **Ubuntu 14.04** (Trusty Tahr), and is based on [Mariano Pyfire](https://github.com/mariano/pyfire) + [James Broadhead fork](https://github.com/jamesbroadhead/snakefire) of Snakefire.
 
 # Install
 
@@ -16,3 +16,7 @@ sudo apt-add-repository -y ppa:rael-gc/snakefire
 sudo apt-get update
 sudo apt-get install snakefire
 ```
+
+# License
+
+Snakefire and Pyfire are released under the [MIT License](LICENSE).
