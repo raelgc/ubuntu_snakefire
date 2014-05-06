@@ -1,0 +1,8 @@
+pyfire_*
+snakefire_*
+pyfire-*/build/
+pyfire-*/debian/pyfire/
+pyfire-*/pyfire.egg-info/
+snakefire-*/build/
+snakefire-*/debian/pyfire/
+snakefire-*/snakefire.egg-info/
