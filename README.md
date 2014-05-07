@@ -9,6 +9,7 @@ This repo was built to create a running version for **Ubuntu 14.04** (Trusty Tah
 
 This Snakefire version uses different Snakefire forks, like original [Mariano Snakefire](https://github.com/mariano/snakefire) and some CSS changes from [James Broadhead fork](https://github.com/jamesbroadhead/snakefire) of Snakefire.
 
+
 # Install
 
 Open a terminal (`Ctrl+Alt+T`) and run:
@@ -17,6 +18,16 @@ Open a terminal (`Ctrl+Alt+T`) and run:
 sudo apt-add-repository -y ppa:rael-gc/snakefire
 sudo apt-get update
 sudo apt-get install snakefire
+```
+
+## Spell checking
+
+For spell checking, you now need to install a relevant dictionary.
+
+Then install the related aspell dictionary. For example, to install the english dictionary:
+
+```term
+sudo apt-get install aspell-en
 ```
 
 # License
