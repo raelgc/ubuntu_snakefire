@@ -22,9 +22,9 @@ sudo apt-get install snakefire
 
 ## Spell checking
 
-For spell checking, you now need to install a relevant dictionary.
+For spell checking, you now need to install the related aspell dictionary. 
 
-Then install the related aspell dictionary. For example, to install the english dictionary:
+For example, to install the english dictionary:
 
 ```term
 sudo apt-get install aspell-en
