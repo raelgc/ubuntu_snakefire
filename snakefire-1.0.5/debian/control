@@ -2,12 +2,13 @@ Source: snakefire
 Maintainer: Rael Gugelmin Cunha <rael.gc@gmail.com>
 Section: net
 Priority: optional
-Build-Depends: python-setuptools (>= 0.6b3), debhelper (>= 7), python-support (>= 0.8.4)
-Standards-Version: 3.8.4
+Build-Depends: python-setuptools, debhelper (>= 9), dh-python
+Standards-Version: 3.9.5
+X-Python-Version: >= 2.7
 
 Package: snakefire
 Architecture: all
-Depends: ${python:Depends}, pyfire (>= 0.3.4), python-qt4, python3-keyring | python-keyring, python-enchant | python3-enchant
-Description: A Campfire Desktop client for Linux
- Snakefire is a desktop client for Campfire that can run on Linux, and any other
+Depends: ${misc:Depends}, python (<< 2.8), python (>= 2.7), python-pyfire, python-qt4, python3-keyring | python-keyring, python-enchant | python3-enchant
+Description: Campfire Desktop client for Linux
+ Snakefire is a desktop client for Campfire that can run on Linux and any other
  OS that has QT support.
