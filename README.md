@@ -20,7 +20,7 @@ sudo apt-get update
 sudo apt-get install snakefire
 ```
 
-If you're using **KDE** additionally install python-kde4:
+If you're using **KDE** additionally install `python-kde4`:
 
 ```
 sudo apt-get install python-kde4
@@ -28,7 +28,7 @@ sudo apt-get install python-kde4
 
 ## Spell checking
 
-For spell checking, you now need to install the related aspell dictionary. 
+For spell checking, you now need to install the related `aspell` dictionary. 
 
 For example, to install the english dictionary:
 
