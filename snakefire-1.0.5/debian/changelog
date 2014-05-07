@@ -1,3 +1,9 @@
+snakefire (1.0.5-1ubuntu1) trusty; urgency=medium
+
+  * Last Snakefire fixes from github
+
+ -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Wed, 07 May 2014 11:22:57 -0300
+
 snakefire (1.0.5-1) trusty; urgency=low
 
   * Initial release
