@@ -26,7 +26,7 @@ If you're using **KDE** additionally install `snakefire-kde`:
 sudo apt-get install snakefire-kde
 ```
 
-## Spell checking
+### Spell checking
 
 For spell checking, you now need to install the related `aspell` dictionary. 
 
