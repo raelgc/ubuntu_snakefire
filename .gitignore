@@ -1,8 +1,9 @@
 python-pyfire_*
 snakefire_*
-python-pyfire-*/build/
+snakefire-kde_*
+*/build/
 python-pyfire-*/debian/python-pyfire/
 python-pyfire-*/python-pyfire.egg-info/
-snakefire-*/build/
 snakefire-*/debian/snakefire/
 snakefire-*/snakefire.egg-info/
+snakefire-kde-*/debian/snakefire-kde/

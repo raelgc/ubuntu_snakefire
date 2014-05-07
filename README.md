@@ -20,10 +20,10 @@ sudo apt-get update
 sudo apt-get install snakefire
 ```
 
-If you're using **KDE** additionally install `python-kde4`:
+If you're using **KDE** additionally install `snakefire-kde`:
 
 ```
-sudo apt-get install python-kde4
+sudo apt-get install snakefire-kde
 ```
 
 ## Spell checking

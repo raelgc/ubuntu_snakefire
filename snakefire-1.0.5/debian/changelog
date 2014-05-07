@@ -1,3 +1,9 @@
+snakefire (1.0.5-1ubuntu6) trusty; urgency=medium
+
+  * Moving KDE dependencies to other package
+
+ -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Wed, 07 May 2014 15:27:20 -0300
+
 snakefire (1.0.5-1ubuntu5) trusty; urgency=low
 
   * Fixing python-notify dependency
