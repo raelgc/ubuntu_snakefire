@@ -5,7 +5,7 @@ Snakefire for Ubuntu
 
 It's based on [pyfire](https://github.com/mariano/pyfire), a Campfire API written in python.
 
-This repo was built to create a running version for **Ubuntu 14.04** (Trusty Tahr).
+This repo was built to create a binary package for **Ubuntu 14.04** (Trusty Tahr). It's a complete rewrite of the package building scripts, using newer [`debhelper`](http://manpages.ubuntu.com/manpages/trusty/man7/debhelper.7.html) version and [`dh_python2`](http://manpages.ubuntu.com/manpages/precise/man1/dh_python2.1.html) as replacement for [deprecated `python_support`](http://article.gmane.org/gmane.linux.debian.devel.python/6948).
 
 This Snakefire version uses different [Snakefire forks](https://github.com/mariano/snakefire/network), like original [Mariano Snakefire](https://github.com/mariano/snakefire) and some CSS changes from [James Broadhead fork](https://github.com/jamesbroadhead/snakefire).
 
