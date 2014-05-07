@@ -1,3 +1,9 @@
+python-pyfire (0.3.4-1ubuntu1) trusty; urgency=low
+
+  * Fixing email and packaging version
+
+ -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Wed, 07 May 2014 12:17:49 -0300
+
 python-pyfire (0.3.4-1) trusty; urgency=low
 
   * Initial release
