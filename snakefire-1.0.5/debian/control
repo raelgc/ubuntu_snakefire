@@ -8,7 +8,7 @@ X-Python-Version: >= 2.7
 
 Package: snakefire
 Architecture: all
-Depends: ${misc:Depends}, python (<< 2.8), python (>= 2.7), python-pyfire, python-qt4, python3-keyring | python-keyring, python-enchant | python3-enchant
+Depends: ${misc:Depends}, python (<< 2.8), python (>= 2.7), python-pyfire, python-qt4, python3-keyring | python-keyring, python3-enchant | python-enchant, python3-dbus | python-dbus
 Description: Campfire Desktop client for Linux
  Snakefire is a desktop client for Campfire that can run on Linux and any other
  OS that has QT support.
