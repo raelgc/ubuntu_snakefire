@@ -1,4 +1,3 @@
-packaging/linux/Snakefire.notifyrc usr/share/kde4/apps/Snakefire
 packaging/linux/cricava-snakefire.desktop usr/share/applications
 resources/icons/16x16/snakefire.png usr/share/icons/hicolor/16x16/apps
 resources/icons/22x22/snakefire.png usr/share/icons/hicolor/22x22/apps

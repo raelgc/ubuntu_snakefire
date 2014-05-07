@@ -1,0 +1,15 @@
+Source: snakefire-kde
+Maintainer: Rael Gugelmin Cunha <rael.gc@gmail.com>
+Section: net
+Priority: optional
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: snakefire-kde
+Architecture: all
+Depends: snakefire, python-kde4
+Description: Campfire Desktop client for KDE
+ Snakefire is a desktop client for Campfire that can run on Linux and any other
+ OS that has QT support.
+ .
+ This package provides additional support for KDE desktop.
