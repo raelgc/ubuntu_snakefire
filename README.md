@@ -10,7 +10,7 @@ This repo was built to create a binary package for **Ubuntu 14.04** (Trusty Tahr
 This Snakefire version uses different [Snakefire forks](https://github.com/mariano/snakefire/network), like original [Mariano Snakefire](https://github.com/mariano/snakefire) and some CSS changes from [James Broadhead fork](https://github.com/jamesbroadhead/snakefire).
 
 
-# Install
+## Install
 
 Open a terminal (`Ctrl+Alt+T`) and run:
 
@@ -36,6 +36,6 @@ For example, to install the english dictionary:
 sudo apt-get install aspell-en
 ```
 
-# License
+## License
 
 Snakefire and Pyfire are released under the [MIT License](LICENSE).
