@@ -1,3 +1,9 @@
+python-pyfire (0.3.4-1ubuntu2) trusty; urgency=low
+
+  * Fixing dependencies 
+
+ -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Wed, 07 May 2014 13:14:08 -0300
+
 python-pyfire (0.3.4-1ubuntu1) trusty; urgency=low
 
   * Fixing email and packaging version

@@ -8,7 +8,7 @@ X-Python-Version: >= 2.7
 
 Package: python-pyfire
 Architecture: all
-Depends: ${misc:Depends}, python (<< 2.8), python (>= 2.7), python3-twisted-experimental | python-twisted, python3-openssl | python-openssl
+Depends: ${misc:Depends}, python (<< 2.8), python (>= 2.7), python3-twisted-experimental | python-twisted, python-openssl
 Description: Campfire API implementation in Python
  Pyfire provides an easy to use, full featured implementation of the Campfire 
  API in Python.

@@ -1,3 +1,15 @@
+snakefire (1.0.5-1ubuntu3) trusty; urgency=low
+
+  * Replacing dependency: python-dbus by python-notify2
+
+ -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Wed, 07 May 2014 13:43:32 -0300
+
+snakefire (1.0.5-1ubuntu2) trusty; urgency=low
+
+  * Fixing dependencies
+
+ -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Wed, 07 May 2014 13:13:06 -0300
+
 snakefire (1.0.5-1ubuntu1) trusty; urgency=low
 
   * Last Snakefire fixes from github
