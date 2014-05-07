@@ -7,7 +7,7 @@ It's based on [pyfire](https://github.com/mariano/pyfire), a Campfire API writte
 
 This repo was built to create a running version for **Ubuntu 14.04** (Trusty Tahr).
 
-This Snakefire version uses different [Snakefire forks](https://github.com/mariano/snakefire/network), like original [Mariano Snakefire](https://github.com/mariano/snakefire) and some CSS changes from [James Broadhead fork](https://github.com/jamesbroadhead/snakefire) of Snakefire.
+This Snakefire version uses different [Snakefire forks](https://github.com/mariano/snakefire/network), like original [Mariano Snakefire](https://github.com/mariano/snakefire) and some CSS changes from [James Broadhead fork](https://github.com/jamesbroadhead/snakefire).
 
 
 # Install
