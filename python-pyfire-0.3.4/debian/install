@@ -1,0 +1,12 @@
+pyfire/connection.py usr/lib/python2.7/dist-packages/pyfire
+pyfire/room.py /usr/lib/python2.7/dist-packages/pyfire
+pyfire/__init__.py usr/lib/python2.7/dist-packages/pyfire
+pyfire/message.py usr/lib/python2.7/dist-packages/pyfire
+pyfire/entity.py usr/lib/python2.7/dist-packages/pyfire
+pyfire/twistedx/receiver.py usr/lib/python2.7/dist-packages/pyfire/twistedx
+pyfire/twistedx/__init__.py usr/lib/python2.7/dist-packages/pyfire/twistedx
+pyfire/twistedx/producer.py usr/lib/python2.7/dist-packages/pyfire/twistedx
+pyfire/stream.py usr/lib/python2.7/dist-packages/pyfire
+pyfire/user.py usr/lib/python2.7/dist-packages/pyfire
+pyfire/campfire.py usr/lib/python2.7/dist-packages/pyfire
+pyfire/upload.py usr/lib/python2.7/dist-packages/pyfire

@@ -1,2 +1,0 @@
-twisted>=10.1.0
-pyOpenSSL
