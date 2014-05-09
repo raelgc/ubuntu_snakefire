@@ -1,29 +1,6 @@
-python-pyfire (0.3.4-2) trusty; urgency=low
-
-  * Fixing version schema
-
- -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Fri, 09 May 2014 14:52:49 -0300
-
-python-pyfire (0.3.4-1ubuntu3) trusty; urgency=low
-
-  * Creating pure debhelper package
-
- -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Fri, 09 May 2014 08:49:15 -0300
-
-python-pyfire (0.3.4-1ubuntu2) trusty; urgency=low
-
-  * Fixing dependencies 
-
- -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Wed, 07 May 2014 13:14:08 -0300
-
-python-pyfire (0.3.4-1ubuntu1) trusty; urgency=low
-
-  * Fixing email and packaging version
-
- -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Wed, 07 May 2014 12:17:49 -0300
-
 python-pyfire (0.3.4-1) trusty; urgency=low
 
   * Initial release
 
- -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Tue, 06 May 2014 11:43:23 -0300
+ -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Fri, 09 May 2014 14:52:49 -0300
+
