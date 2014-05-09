@@ -1,4 +1,10 @@
-python-pyfire (0.3.4-1ubuntu3) trusty; urgency=medium
+python-pyfire (0.3.4-2) trusty; urgency=low
+
+  * Fixing version schema
+
+ -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Fri, 09 May 2014 14:52:49 -0300
+
+python-pyfire (0.3.4-1ubuntu3) trusty; urgency=low
 
   * Creating pure debhelper package
 
