@@ -15,7 +15,7 @@ This Snakefire version uses different [Snakefire forks](https://github.com/maria
 Open a terminal (`Ctrl+Alt+T`) and run:
 
 ```term
-sudo apt-add-repository -y ppa:rael-gc/ubuntu-snakefire
+sudo apt-add-repository -y ppa:rael-gc/snakefire
 sudo apt-get update
 sudo apt-get install snakefire
 ```
