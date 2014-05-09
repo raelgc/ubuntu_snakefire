@@ -1,10 +1,16 @@
-snakefire (1.0.5-1ubuntu7) trusty; urgency=medium
+snakefire (1.0.6-1ubuntu0) trusty; urgency=low
+
+  * Fixing python version; Changing package to quilt; Renaming .desktop file
+
+ -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Fri, 09 May 2014 13:53:00 -0300
+
+snakefire (1.0.5-1ubuntu7) trusty; urgency=low
 
   * Creating pure debhelper package
 
  -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Fri, 09 May 2014 08:50:12 -0300
 
-snakefire (1.0.5-1ubuntu6) trusty; urgency=medium
+snakefire (1.0.5-1ubuntu6) trusty; urgency=low
 
   * Moving KDE dependencies to other package
 
