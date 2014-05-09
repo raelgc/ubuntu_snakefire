@@ -8,7 +8,7 @@ snakefire/renderers.py usr/lib/python2.7/dist-packages/snakefire
 snakefire/dialogs.py usr/lib/python2.7/dist-packages/snakefire
 snakefire/resources.py usr/lib/python2.7/dist-packages/snakefire
 bin/snakefire usr/bin
-desktop/cricava-snakefire.desktop usr/share/applications
+desktop/snakefire.desktop usr/share/applications
 resources/icons/16x16/snakefire.png usr/share/icons/hicolor/16x16/apps
 resources/icons/22x22/snakefire.png usr/share/icons/hicolor/22x22/apps
 resources/icons/32x32/snakefire.png usr/share/icons/hicolor/32x32/apps
