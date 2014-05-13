@@ -7,3 +7,5 @@ python-pyfire-*/python-pyfire.egg-info/
 snakefire-*/debian/snakefire/
 snakefire-*/snakefire.egg-info/
 snakefire-kde-*/debian/snakefire-kde/
+.pc/
+patches/
