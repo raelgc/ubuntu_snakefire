@@ -1,3 +1,9 @@
+snakefire (1.0.5-3) trusty; urgency=low
+
+  * SSL is now ON by default
+
+ -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Wed, 14 May 2014 10:21:04 -0300
+
 snakefire (1.0.5-2) trusty; urgency=low
 
   * Fixing .desktop file to match new desktop.org standards
