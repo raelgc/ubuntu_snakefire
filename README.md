@@ -9,6 +9,8 @@ This repo was built to create a binary package for **Ubuntu 14.04** (Trusty Tahr
 
 This Snakefire version uses original [Mariano Snakefire](https://github.com/mariano/snakefire) and some CSS changes from [James Broadhead fork](https://github.com/jamesbroadhead/snakefire).
 
+Additionally, some improvements are present, like updated `.desktop` file and SSL enabled by default.
+
 
 ## Install
 
