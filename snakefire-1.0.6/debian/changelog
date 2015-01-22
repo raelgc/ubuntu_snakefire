@@ -1,3 +1,9 @@
+snakefire (1.0.6-1) trusty; urgency=low
+
+  * Restoring default window behavior and a "Show" entry in Systray (#11)
+
+ -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Thu, 22 Jan 2015 09:38:33 -0200
+
 snakefire (1.0.5-3) trusty; urgency=low
 
   * SSL is now ON by default
