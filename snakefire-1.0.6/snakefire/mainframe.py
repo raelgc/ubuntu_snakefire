@@ -268,13 +268,6 @@ class Snakefire(object):
         self._forceClose = True
         self.close()
 
-    def changeEvent(self, event):
-        if self.getSetting("program", "minimize") and event.type() == QtCore.QEvent.WindowStateChange and self.isMinimized():
-            self.hide()
-            event.ignore()
-        else:
-            event.accept()
-
     def closeEvent(self, event):
         if (not hasattr(self, "_forceClose") or not self._forceClose) and self.getSetting("program", "minimize"):
             self.hide()
@@ -1049,6 +1042,8 @@ class Snakefire(object):
         self._updateLayout()
 
         menu = QtGui.QMenu(self)
+        menu.addAction(self._menus["file"]["show"])
+        menu.addSeparator()
         menu.addAction(self._menus["file"]["connect"])
         menu.addAction(self._menus["file"]["disconnect"])
         menu.addSeparator()
@@ -1061,6 +1056,7 @@ class Snakefire(object):
     def _addMenu(self):
         self._menus = {
             "file": {
+                "show": self._createAction(self._("&Show"), self.show),
                 "connect": self._createAction(self._("&Connect"), self.connectNow, icon="connect.png"),
                 "disconnect": self._createAction(self._("&Disconnect"), self.disconnectNow, icon="disconnect.png"),
                 "exit": self._createAction(self._("E&xit"), self.exit)
